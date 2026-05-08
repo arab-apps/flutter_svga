@@ -23,7 +23,7 @@ dependencies:
   http: ^1.6.0
   path_drawing: ^1.0.1
   protobuf: ^6.0.0
-  audioplayers: ^6.5.1
+  audioplayers: ^6.6.0
   path_provider: ^2.1.5
   crypto: ^3.0.7
 
