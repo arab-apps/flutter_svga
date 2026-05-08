@@ -20,10 +20,11 @@ packages:
   audioplayers:
     dependency: transitive
     description:
-      name: audioplayers
-      sha256: a72dd459d1a48f61a6fb9c0134dba26597c9236af40639ff0eb70eb4e0baab70
-      url: "https://pub.dev"
-    source: hosted
+      path: "packages/audioplayers"
+      ref: HEAD
+      resolved-ref: "99d741c6c4d25554e3efbf6e7f01e3656bdca79c"
+      url: "https://github.com/arab-apps/audioplayers.git"
+    source: git
     version: "6.6.0"
   audioplayers_android:
     dependency: transitive
